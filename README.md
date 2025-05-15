@@ -1,3 +1,11 @@
+Nama:Rasyid
+    :Salwa
+    :anggi
+    :Yefta
+    :rafli
+    :jua
+    
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
