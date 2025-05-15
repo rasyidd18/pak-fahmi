@@ -1,5 +1,3 @@
-# pak-fahmi
-Pengumpulan Tugas Apps 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
